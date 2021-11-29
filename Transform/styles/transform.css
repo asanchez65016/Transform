@@ -1,0 +1,15 @@
+.rotate{
+	position: absolute;
+	left: 300;
+	top: 300;
+	transform: rotate(90deg);
+}
+.translate{
+	transform: translate(100px);
+}
+.scale{
+	position: absolute;
+	left: 300;
+	top: 600;
+	transform: scale(2.1);
+}
